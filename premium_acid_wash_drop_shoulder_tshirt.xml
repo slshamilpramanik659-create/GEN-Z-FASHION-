@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+  <name>Premium Acid Wash Drop Shoulder TShirt</name>
+  <description>বর্তমানে সবচেয়ে ডিমান্ডেবল এবং কোয়ালিটি সম্পূর্ণ এসিড ওয়াসের ড্রপ সোল্ডার টিশার্ট</description>
+  <details>
+    <fabrics>১০০% কটন এসিড ওয়াস</fabrics>
+    <gsm>২৫০+ প্লাস GSM</gsm>
+    <features>ড্রপ সোল্ডার, পারফেক্ট সাইজ মেজারমেন্ট, সফ্ট ফেব্রিক্স, প্রিমিয়াম লুক এবং টেকসই</features>
+  </details>
+  <available_sizes>
+    <size name="M" length="27" chest="40" />
+    <size name="L" length="28" chest="42" />
+    <size name="XL" length="29" chest="44" />
+  </available_sizes>
+  <price currency="BDT">500</price>
+</product>
